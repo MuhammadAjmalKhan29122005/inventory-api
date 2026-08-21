@@ -1,4 +1,3 @@
-```markdown
 # Product Inventory API
 
 A RESTful API for managing product inventory. This project provides endpoints to create, read, update, and delete products, and can be extended for categories, stock tracking, and reporting.
